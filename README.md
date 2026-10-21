@@ -33,4 +33,4 @@ Care Mate, the caregiver management system: <put the Care Mate repo link here>
 
 ## Team
 
-Nora Alowaidh, Ibtesam Alqahtani, Rimas Aldosari, Ibtehaj Alqhtani, Aryam Hakami, Ola Yasir Omer
+Nora Alowaidh, Ibtesam Alqahtani, Reemas Aldosari, Ibtehaj Alqhtani, Aryam Hakami, Ola Yasir Omer
